@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "UberHacktag3"
+include ':simulator'
+include ':card-slider'

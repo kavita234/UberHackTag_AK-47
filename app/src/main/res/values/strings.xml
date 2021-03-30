@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Uber HackTag</string>
+    <string name="continue_text">Continue</string>
+    <string name="register_text">Let\'s start with creating your account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="required_for_this_app">Required for this app</string>
+    <string name="enable_now">Enable Now</string>
+    <string name="location_permission_not_granted">Location Permission not granted</string>
+    <string name="current_location">Current Location</string>
+    <string name="where_to">Where to?</string>
+    <string name="pickup_location">Pickup Location</string>
+    <string name="request_cab">Request Cab</string>
+    <string name="your_cab_is_arriving">Your Cab is Arriving</string>
+    <string name="requesting_your_cab">Requesting your cab</string>
+    <string name="your_cab_is_booked">Your Cab is Booked</string>
+    <string name="your_cab_has_arrived">Your Cab has Arrived</string>
+    <string name="you_are_on_a_trip">You are on a trip</string>
+    <string name="trip_end">Trip End</string>
+    <string name="take_next_ride">Take Next Ride</string>
+    <string name="route_not_available_choose_different_locations">Route Not Available: Choose different pickup and drop location</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_home_rider">HomeRiderActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_sign_out">Sign Out</string>
+    <string name="permission_require">location permission required</string>
+    <string name="drivers_not_found">drivers not found</string>
+    <string name="key_not_found">key not found</string>
+    <string name="google_maps_key">YOUR_API_KEY</string>
+    <string name="google_maps_key1">YOUR_API_KEY</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>

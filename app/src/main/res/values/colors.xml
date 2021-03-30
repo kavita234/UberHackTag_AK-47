@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="light_grey">#80DCDCDC</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="skyblue">#0099f4</color>
+    <color name="white">#ffffff</color>
+    <color name="drawer_menu_selector_color">#191c51</color>
+    <color name="black">#000</color>
+    <color name="lightblack">#41191C51</color>
+    <color name="green_dot_big">@color/blue</color>
+    <color name="green_dot_small">@color/blue</color>
+    <color name="orange">#FF5733</color>
+    <color name="blue">#348af7</color>
+    <color name="temperature_background">@color/blue</color>
+    <color name="temperature_text">@android:color/white</color>
+    <color name="maroon">#E12281</color>
+    <color name="transperentgray">#1E888888</color>
+</resources>
