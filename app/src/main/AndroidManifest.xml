@@ -32,6 +32,11 @@
             android:name=".DetailsActivity"
             android:label="DriverActivity"
             android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name=".WalletActivityb"
+            android:label="DriverActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".Concerts"
             android:label="DriverActivity"

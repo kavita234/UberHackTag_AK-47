@@ -134,18 +134,15 @@ open class DrawerUtils : AppCompatActivity(),
             intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
             finish()
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.nav_wallet) {
             Toast.makeText(
                 context,
                 "You Click On SlideShow",
                 Toast.LENGTH_SHORT
             ).show()
-        } else if (id == R.id.nav_tools) {
-            Toast.makeText(
-                context,
-                "You Click On Tools",
-                Toast.LENGTH_SHORT
-            ).show()
+            intent = Intent(this, WalletActivity::class.java)
+            startActivity(intent)
+            finish()
         } else if (id == R.id.nav_share) {
             Toast.makeText(
                 context,
